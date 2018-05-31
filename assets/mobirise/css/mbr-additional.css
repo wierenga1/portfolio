@@ -1579,3 +1579,27 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qTE68aS7Fl {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qTE68aS7Fl .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qTE68aS7Fl .section-text {
+  padding: 2rem 0;
+  text-align: center;
+}
+.cid-qTE68aS7Fl .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qTE68aS7Fl .inner-container {
+    width: 100% !important;
+  }
+}
